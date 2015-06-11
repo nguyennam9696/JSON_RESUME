@@ -3,27 +3,25 @@
       "label": "My JSON Resume",
       "name": "Nam H. Nguyen",
       "profession": "Software Engineer | Full Stack Developer | Visionary Entrepreneur",
+      "age": "24",
+      "location": "San Francisco, CA",
       "contact": [
          {
             "email": "nguyennam9696@gmail.com",
             "phone": "(714) 383-7169",
-            "location": "San Francisco, CA",
-            "personal_website": "http://nomnomnam.branded.me",
+            "website": "http://nomnomnam.branded.me",
             "profiles": [
                {
-                  "network": "LinkedIn",
-                  "url": "https://www.linkedin.com/in/namhoangnguyen1337"
-               },
-               {
-                  "network": "Github",
-                  "url": "https://github.com/nguyennam9696"
+                  "linkedIn": "https://www.linkedin.com/in/namhoangnguyen1337",
+                  "github": "https://github.com/nguyennam9696",
+                  "skype": "nomnomnaam"
                }
             ]
          }
       ],
       "summary": " 'Whenever you find yourself on the side of the majority, it is time to pause and reflect.' - Mark Twain. I am Nam Hoang Nguyen, mercenary to his dreams and works hard from morning till night like an industrious ant. I am looking for a progressive, innovative company with a fun, driven culture where I can harness my business, science, and software knowledge to greatly contribute to."
    },
-   "project": [
+   "projects": [
       {
          "name": "Darity - 'Dares for Charity' (Web Application)",
          "created_at": "2015-06",
@@ -86,7 +84,7 @@
          "achievement": "Our success was when we were able to pay off both my wife and my pharmacy/medical school debt off. This experience really paved my way into loving business."
       }
    ],
-   "skill": [
+   "skills": [
       {
          "name": "UI/UX Design"
       },
@@ -153,29 +151,45 @@
          "gpa": "3.89"
       }
    ],
-   "award": [
+   "activities": [
       {
-         "name": "China Medical University Merit Scholar Award",
+         "title": "Lobby Group Leader",
+         "organization": "California Health Professional Student Alliance (CaHPSA)",
+         "startDate": "2012",
+         "endDate": "2013",
+         "description": "March to Capitol Building to advocate the single payer bill proposed by Senator Mark Leno called SB 810. Enlighten and hold debates with non-advocate Republicans and Democrats on the SB 810 Bill. We want to take out the greedy middle man, speed up the slow health care process, give control back to healthcare decision making to doctors and provide universal healthcare to all. Team up and train 4 members on effective tactics when lobbying with Senators and Assembly Members"
       },
       {
-         "name": "UCLA Scholar Scholarship",
+         "title": "Growth International Volunteer",
+         "organization": "Growth International Volunteer Excursions (GIVE)",
+         "startDate": "2012-06",
+         "endDate": "2012-07",
+         "description": "Built a school out of environment friendly 'sand in a soda bottle', built sanitary water system for drinking and bathing, and taught the kids English. We come to Nicaragua in hopes to inspire the kids to further their education and teach them self-sustainable skills like engineering, business, and math. This give them the opportunity to have a higher education and dream bigger."
       },
       {
-         "name": "Exemplary and Outstanding Dedication Award at St. Francis Medical Center",
+         "title": "Earthquake Landslide Relief Volunteer / Disaster Action Team",
+         "organization": "American Red Cross",
+         "startDate": "2010-08",
+         "endDate": "2011-06",
+         "description": "California has been struck with earthquakes that causes landslides to occur destroying countless homes in its impact. My local college American Red Cross club was called upon to dig out the huge mounds of dirt and to provide any first aid care to any victims."
       },
       {
-         "name": "GWC Dean's List",
+         "title": "Special Projects Coordinator - Baby Showers",
+         "organization": "St. Francis Medical Center",
+         "startDate": "2010-06",
+         "endDate": "2011-08",
+         "description": "Coordinate with hospital managers and staff to host baby showers for mothers with their newborns with their family members and free gifts from the hospital. I contributed a nice presentation on how to take care of newborn babies."
       },
+   ],
+   "awards": [
+      {
+         "certificate": ["China Medical University Merit Scholar Award, UCLA Scholar Scholarship, Exemplary and Outstanding Dedication Award at St. Francis Medical Center, GWC Dean's List"]
+      }
    ],
    "language": [
       {
-         "name": "Vietnamese"
-      },
-      {
-         "name": "Chinese"
-      },
-      {
-         "name": "Spanish"
+         "fluency": ["Vietnamese, Chinese, Spanish, English"]
       }
    ],
+
 }
