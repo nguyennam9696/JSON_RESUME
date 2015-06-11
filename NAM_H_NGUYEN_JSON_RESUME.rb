@@ -44,16 +44,34 @@
       },
       {
          "name": "NomNom's Movie Online Store (Open Source Project)",
-         "created_at": "2015-05",
+         "created_at": "2015-06",
          "url": "https://github.com/nguyennam9696/rails_redis_project",
          "description": "Build a movie online store application where users can save movies to a cart, able to purchase it using Braintree API. An open source project using Rails front end and back end with Redis as the non-relational database for quick loading of a huge CSV parsed database. Use devise gem for authentication and verification of users password, email, and login/signup."
-      }
+      },
+      {
+         "name": "NomNom ChitChat (Web Application)",
+         "created_at": "2015-06",
+         "url": "https://github.com/nguyennam9696/redis_chatapp",
+         "description": "Built a fun chat application with Node.JS, Websocket, Socket.io, and Redis. Websocket allows for asynchronous communication from client to server. Socket.io allows real-time bidirectional event-based communication working cross platform for speed and reliability perfect for instant messaging. Node is a lightweight javascript framework that is non-blocking allowing for real-time applications. Redis is used for mem-caching and preserving data of the user's typed messages allowing it to persist even after logging out and logging back in. "
+      },
+      {
+         "name": "Boggle Board (Algorithm)",
+         "created_at": "2015-04",
+         "url": "https://github.com/nguyennam9696/Boggle_Board",
+         "description": "Recreate Boggle Board logics and algorithm in Ruby. Add logics: 1) must be at least 3 letters 2) check to see if it is an english word 3) letters chosen not found on boggle board 4) word already entered"
+      },
+      {
+         "name": "Sudoku Board (Algorithm)",
+         "created_at": "2015-03",
+         "url": "https://github.com/nguyennam9696/Sudoku_Ruby_algorithm",
+         "description": "Create a complex sudoku solver and guesser with optimized solving speed capabilities in Ruby Language."
+      },
    ],
-   "publications": [
+   "publication": [
       {
          "title": "'Ren Body' - The Ampullae of the CNT Segment of the Kidney",
          "publisher": "Chinese Academy of Sciences",
-         "publication_date": "2014-06-10",
+         "publish_date": "2014-06-10",
          "description": "Through histological slicing of the nephron functional unit of the kidney, I observed the short-looped nephron (SLN) and the long-looped nephron (LLN) and found that there was a huge dilation in the CNT segment of each SLN and LLN. These dilation could possibly be linked to the pathological condition known as kidney stones due to the amount of absorption found here. I used Denmark's 3D viewing software and mapped each individual 0.05nm and aligned them altogether to gather and record all data."
       }
    ],
@@ -68,7 +86,7 @@
          "achievement": "Our success was when we were able to pay off both my wife and my pharmacy/medical school debt off. This experience really paved my way into loving business."
       }
    ],
-   "skills": [
+   "skill": [
       {
 
       }
@@ -102,7 +120,7 @@
          "gpa": "3.89"
       }
    ],
-   "awards": [
+   "award": [
       {
          "name": "China Medical University Merit Scholar Award",
       },
@@ -116,7 +134,7 @@
          "name": "GWC Dean's List",
       },
    ],
-   "languages": [
+   "language": [
       {
          "name": "Vietnamese"
       },
