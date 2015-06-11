@@ -21,7 +21,7 @@
             ]
          }
       ],
-      "summary": " 'Whenever you find yourself on the side of the majority, it is time to pause and reflect.' - Mark Twain. I am Nam Hoang Nguyen, mercenary to his dreams and works hard from morning till night like an industrious ant.",
+      "summary": " 'Whenever you find yourself on the side of the majority, it is time to pause and reflect.' - Mark Twain. I am Nam Hoang Nguyen, mercenary to his dreams and works hard from morning till night like an industrious ant. I am looking for a progressive, innovative company with a fun, driven culture where I can harness my business, science, and software knowledge to greatly contribute to."
    },
    "project": [
       {
@@ -88,8 +88,41 @@
    ],
    "skill": [
       {
-
-      }
+         "name": "UI/UX Design"
+      },
+      {
+         "name": "API Development"
+      },
+      {
+         "name": "Web Security"
+      },
+      {
+         "name": "Database Administration"
+      },
+      {
+         "name": "Relational Database (PostgreSQL, MySQL)"
+      },
+      {
+         "name": "Nonrelational Database (Redis, MongoDB, Neo4J)"
+      },
+      {
+         "name": "Ruby/Ruby on Rails"
+      },
+      {
+         "name": "Python/Django"
+      },
+      {
+         "name": "Javascript (jQuery, AJAX, Angular.JS, React.JS, Node.JS)"
+      },
+      {
+         "name": "Test Driven Development (RSpec, Capybara, Selenium)"
+      },
+      {
+         "name": "Agile Development"
+      },
+      {
+         "name": "Pair Programming"
+      },
    ],
    "education": [
       {
