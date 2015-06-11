@@ -9,7 +9,7 @@
          {
             "email": "nguyennam9696@gmail.com",
             "phone": "(714) 383-7169",
-            "website": "http://nomnomnam.branded.me",
+            "website": "http://www.nomnomnam.me/",
             "profiles": [
                {
                   "linkedIn": "https://www.linkedin.com/in/namhoangnguyen1337",
